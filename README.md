@@ -642,6 +642,8 @@ The project is not limited to text classification alone. It also evaluates wheth
 This makes the pipeline relevant not only for NLP benchmarking but also for **health information systems research** and **AI-enabled quality improvement workflows**.
 
 ---
+## Prototype Interface
+![PREM Prototype Interface](images/prem_prototype_interface.png)
 
 ## Important Caveats
 
