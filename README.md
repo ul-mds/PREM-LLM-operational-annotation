@@ -643,7 +643,7 @@ This makes the pipeline relevant not only for NLP benchmarking but also for **he
 
 ---
 ## Prototype Interface
-![PREM Prototype Interface](images/prem_prototype_interface.png)
+![PREM Prototype Interface](./prem_prototype_interface.png)
 
 ## Important Caveats
 
